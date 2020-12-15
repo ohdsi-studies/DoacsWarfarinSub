@@ -328,40 +328,44 @@ prepareRawTable1 <- function(balance,
 }
 
 plotPs <- function(ps, targetName, comparatorName, targetSize, comparatorSize) {
-  psDensity <- ps
-  ps <- rbind(data.frame(x = ps$preferenceScore, y = ps$targetDensity, group = targetName),
-              data.frame(x = ps$preferenceScore, y = ps$comparatorDensity, group = comparatorName))
-  ps$group <- factor(ps$group, levels = c(as.character(targetName), as.character(comparatorName)))
-  theme <- ggplot2::element_text(colour = "#000000", size = 12, margin = ggplot2::margin(0, 0.5, 0, 0.1, "cm"))
-  plot <- ggplot2::ggplot(ps,
-                          ggplot2::aes(x = x, y = y, color = group, group = group, fill = group)) +
-          ggplot2::geom_density(stat = "identity") +
-          ggplot2::scale_fill_manual(values = c(rgb(0.8, 0, 0, alpha = 0.5),
-                                                rgb(0, 0, 0.8, alpha = 0.5))) +
-          ggplot2::scale_color_manual(values = c(rgb(0.8, 0, 0, alpha = 0.5),
-                                                 rgb(0, 0, 0.8, alpha = 0.5))) +
-          ggplot2::scale_x_continuous("Preference score", limits = c(0, 1)) +
-          ggplot2::scale_y_continuous("Density") +
-          ggplot2::theme(legend.title = ggplot2::element_blank(),
-                         panel.grid.major = ggplot2::element_blank(),
-                         panel.grid.minor = ggplot2::element_blank(),
-                         legend.position = "top",
-                         legend.text = theme,
-                         axis.text = theme,
-                         axis.title = theme)
-  psFiltered <- psDensity[psDensity$preferenceScore >= 0.3 & psDensity$preferenceScore <= 0.7, ]
-  targetFraction <- sum(psFiltered$targetDensity) / sum(psDensity$targetDensity)
-  comparatorFraction <- sum(psFiltered$comparatorDensity) / sum(psDensity$comparatorDensity)
-  totalFraction <- (targetFraction * targetSize + comparatorFraction * comparatorSize) / (targetSize + comparatorSize)
-  labelsRight <- sprintf("Clinical equipoise: %2.1f%%", totalFraction * 100)
-  plot <- plot + ggplot2::geom_label(x = 1,
-                                     y = max(ps$y), 
-                                     hjust = "right",
-                                     vjust = "top",
-                                     alpha = 0.8,
-                                     ggplot2::aes(label = text),
-                                     data = data.frame(text = labelsRight), size = 5, inherit.aes = FALSE)
-  return(plot)
+  if (is.null(ps)) {
+    return(NULL)
+  } else {
+    psDensity <- ps
+    ps <- rbind(data.frame(x = ps$preferenceScore, y = ps$targetDensity, group = targetName),
+                data.frame(x = ps$preferenceScore, y = ps$comparatorDensity, group = comparatorName))
+    ps$group <- factor(ps$group, levels = c(as.character(targetName), as.character(comparatorName)))
+    theme <- ggplot2::element_text(colour = "#000000", size = 12, margin = ggplot2::margin(0, 0.5, 0, 0.1, "cm"))
+    plot <- ggplot2::ggplot(ps,
+                            ggplot2::aes(x = x, y = y, color = group, group = group, fill = group)) +
+            ggplot2::geom_density(stat = "identity") +
+            ggplot2::scale_fill_manual(values = c(rgb(0.8, 0, 0, alpha = 0.5),
+                                                  rgb(0, 0, 0.8, alpha = 0.5))) +
+            ggplot2::scale_color_manual(values = c(rgb(0.8, 0, 0, alpha = 0.5),
+                                                   rgb(0, 0, 0.8, alpha = 0.5))) +
+            ggplot2::scale_x_continuous("Preference score", limits = c(0, 1)) +
+            ggplot2::scale_y_continuous("Density") +
+            ggplot2::theme(legend.title = ggplot2::element_blank(),
+                           panel.grid.major = ggplot2::element_blank(),
+                           panel.grid.minor = ggplot2::element_blank(),
+                           legend.position = "top",
+                           legend.text = theme,
+                           axis.text = theme,
+                           axis.title = theme)
+    psFiltered <- psDensity[psDensity$preferenceScore >= 0.3 & psDensity$preferenceScore <= 0.7, ]
+    targetFraction <- sum(psFiltered$targetDensity) / sum(psDensity$targetDensity)
+    comparatorFraction <- sum(psFiltered$comparatorDensity) / sum(psDensity$comparatorDensity)
+    totalFraction <- (targetFraction * targetSize + comparatorFraction * comparatorSize) / (targetSize + comparatorSize)
+    labelsRight <- sprintf("Clinical equipoise: %2.1f%%", totalFraction * 100)
+    plot <- plot + ggplot2::geom_label(x = 1,
+                                       y = max(ps$y), 
+                                       hjust = "right",
+                                       vjust = "top",
+                                       alpha = 0.8,
+                                       ggplot2::aes(label = text),
+                                       data = data.frame(text = labelsRight), size = 5, inherit.aes = FALSE)
+    return(plot)
+  }
 }
 
 plotAllPs <- function(ps) {
