@@ -1,0 +1,157 @@
+"databaseName","definitionId","definitionName","description","indexPersonCount","rulePersonCount","rulePercentSatisfied","doseEqualsTotal"
+"IBM CCAE",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 2.5 mg",7525,1,"0.01%",1
+"IBM CCAE",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 10 mg",7525,323,"4.29%",1
+"IBM CCAE",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 15 mg",7525,342,"4.54%",1
+"IBM CCAE",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 20 mg",7525,6827,"90.72%",1
+"IBM CCAE",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 30 mg",7525,0,"0.00%",1
+"IBM CCAE",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban multiple starting doses",7525,32,"0.43%",1
+"IBM CCAE",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 2.5 mg",12270,2,"0.02%",1
+"IBM CCAE",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 10 mg",12270,415,"3.38%",1
+"IBM CCAE",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 15 mg",12270,5667,"46.19%",1
+"IBM CCAE",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 20 mg",12270,3835,"31.26%",1
+"IBM CCAE",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 30 mg",12270,0,"0.00%",1
+"IBM CCAE",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban multiple starting doses",12270,2351,"19.16%",1
+"IBM CCAE",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 2.5 mg",18659,0,"0.00%",1
+"IBM CCAE",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 10 mg",18659,18520,"99.26%",1
+"IBM CCAE",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 15 mg",18659,41,"0.22%",1
+"IBM CCAE",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 20 mg",18659,88,"0.47%",1
+"IBM CCAE",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 30 mg",18659,0,"0.00%",1
+"IBM CCAE",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose unknown",18659,10,"0.05%",1
+"IBM CCAE",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 2.5 mg",8247,286,"3.47%",1
+"IBM CCAE",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 5 mg",8247,7959,"96.51%",1
+"IBM CCAE",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban mulitple starting dose",8247,2,"0.02%",1
+"IBM CCAE",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 2.5 mg",5203,222,"4.27%",1
+"IBM CCAE",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 5 mg",5203,4977,"95.66%",1
+"IBM CCAE",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban mulitple starting dose",5203,4,"0.08%",1
+"IBM CCAE",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 2.5 mg",2077,2004,"96.49%",1
+"IBM CCAE",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 5 mg",2077,72,"3.47%",1
+"IBM CCAE",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban mulitple starting dose",2077,1,"0.05%",1
+"IBM CCAE",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 75 mg",4193,118,"2.81%",1
+"IBM CCAE",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 110 mg",4193,1,"0.02%",1
+"IBM CCAE",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 150 mg",4193,4074,"97.16%",1
+"IBM CCAE",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran multiple starting doses",4193,0,"0.00%",1
+"IBM CCAE",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 75 mg",326,13,"3.99%",1
+"IBM CCAE",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 110 mg",326,0,"0.00%",1
+"IBM CCAE",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 150 mg",326,313,"96.01%",1
+"IBM CCAE",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran multiple starting doses",326,0,"0.00%",1
+"IBM CCAE",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 75 mg",12,2,"16.67%",1
+"IBM CCAE",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 110 mg",12,0,"0.00%",1
+"IBM CCAE",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 150 mg",12,10,"83.33%",1
+"IBM CCAE",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran multiple starting doses",12,0,"0.00%",1
+"IBM MDCR",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 2.5 mg",14817,1,"0.01%",1
+"IBM MDCR",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 10 mg",14817,945,"6.38%",1
+"IBM MDCR",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 15 mg",14817,4405,"29.73%",1
+"IBM MDCR",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 20 mg",14817,9403,"63.46%",1
+"IBM MDCR",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 30 mg",14817,0,"0.00%",1
+"IBM MDCR",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban multiple starting doses",14817,63,"0.43%",1
+"IBM MDCR",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 2.5 mg",5834,0,"0.00%",1
+"IBM MDCR",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 10 mg",5834,221,"3.79%",1
+"IBM MDCR",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 15 mg",5834,2883,"49.42%",1
+"IBM MDCR",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 20 mg",5834,1735,"29.74%",1
+"IBM MDCR",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 30 mg",5834,0,"0.00%",1
+"IBM MDCR",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban multiple starting doses",5834,995,"17.06%",1
+"IBM MDCR",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 2.5 mg",8216,0,"0.00%",1
+"IBM MDCR",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 10 mg",8216,8130,"98.95%",1
+"IBM MDCR",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 15 mg",8216,33,"0.40%",1
+"IBM MDCR",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 20 mg",8216,42,"0.51%",1
+"IBM MDCR",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 30 mg",8216,0,"0.00%",1
+"IBM MDCR",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose unknown",8216,11,"0.13%",1
+"IBM MDCR",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 2.5 mg",18499,6306,"34.09%",1
+"IBM MDCR",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 5 mg",18499,12183,"65.86%",1
+"IBM MDCR",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban mulitple starting dose",18499,10,"0.05%",1
+"IBM MDCR",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 2.5 mg",2932,408,"13.92%",1
+"IBM MDCR",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 5 mg",2932,2502,"85.33%",1
+"IBM MDCR",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban mulitple starting dose",2932,22,"0.75%",1
+"IBM MDCR",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 2.5 mg",876,837,"95.55%",1
+"IBM MDCR",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 5 mg",876,39,"4.45%",1
+"IBM MDCR",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban mulitple starting dose",876,0,"0.00%",1
+"IBM MDCR",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 75 mg",8571,1654,"19.30%",1
+"IBM MDCR",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 110 mg",8571,8,"0.09%",1
+"IBM MDCR",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 150 mg",8571,6903,"80.54%",1
+"IBM MDCR",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran multiple starting doses",8571,6,"0.07%",1
+"IBM MDCR",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 75 mg",206,38,"18.45%",1
+"IBM MDCR",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 110 mg",206,0,"0.00%",1
+"IBM MDCR",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 150 mg",206,168,"81.55%",1
+"IBM MDCR",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran multiple starting doses",206,0,"0.00%",1
+"IBM MDCR",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 75 mg",9,1,"11.11%",1
+"IBM MDCR",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 110 mg",9,1,"11.11%",1
+"IBM MDCR",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 150 mg",9,7,"77.78%",1
+"IBM MDCR",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran multiple starting doses",9,0,"0.00%",1
+"IBM MDCD",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 2.5 mg",2622,0,"0.00%",1
+"IBM MDCD",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 10 mg",2622,164,"6.25%",1
+"IBM MDCD",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 15 mg",2622,483,"18.42%",1
+"IBM MDCD",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 20 mg",2622,1950,"74.37%",1
+"IBM MDCD",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 30 mg",2622,0,"0.00%",1
+"IBM MDCD",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban multiple starting doses",2622,25,"0.95%",1
+"IBM MDCD",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 2.5 mg",4808,0,"0.00%",1
+"IBM MDCD",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 10 mg",4808,132,"2.75%",1
+"IBM MDCD",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 15 mg",4808,2120,"44.09%",1
+"IBM MDCD",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 20 mg",4808,1388,"28.87%",1
+"IBM MDCD",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 30 mg",4808,0,"0.00%",1
+"IBM MDCD",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban multiple starting doses",4808,1168,"24.29%",1
+"IBM MDCD",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 2.5 mg",2492,0,"0.00%",1
+"IBM MDCD",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 10 mg",2492,2462,"98.80%",1
+"IBM MDCD",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 15 mg",2492,12,"0.48%",1
+"IBM MDCD",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 20 mg",2492,16,"0.64%",1
+"IBM MDCD",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 30 mg",2492,0,"0.00%",1
+"IBM MDCD",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose unknown",2492,2,"0.08%",1
+"IBM MDCD",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 2.5 mg",3363,592,"17.60%",1
+"IBM MDCD",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 5 mg",3363,2761,"82.10%",1
+"IBM MDCD",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban mulitple starting dose",3363,10,"0.30%",1
+"IBM MDCD",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 2.5 mg",2414,153,"6.34%",1
+"IBM MDCD",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 5 mg",2414,2251,"93.25%",1
+"IBM MDCD",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban mulitple starting dose",2414,10,"0.41%",1
+"IBM MDCD",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 2.5 mg",390,370,"94.87%",1
+"IBM MDCD",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 5 mg",390,20,"5.13%",1
+"IBM MDCD",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban mulitple starting dose",390,0,"0.00%",1
+"IBM MDCD",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 75 mg",743,128,"17.23%",1
+"IBM MDCD",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 110 mg",743,1,"0.13%",1
+"IBM MDCD",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 150 mg",743,614,"82.64%",1
+"IBM MDCD",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran multiple starting doses",743,0,"0.00%",1
+"IBM MDCD",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 75 mg",89,6,"6.74%",1
+"IBM MDCD",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 110 mg",89,0,"0.00%",1
+"IBM MDCD",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 150 mg",89,83,"93.26%",1
+"IBM MDCD",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran multiple starting doses",89,0,"0.00%",1
+"IBM MDCD",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 75 mg",2,0,"0.00%",1
+"IBM MDCD",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 110 mg",2,0,"0.00%",1
+"IBM MDCD",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 150 mg",2,2,"100.00%",1
+"IBM MDCD",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran multiple starting doses",2,0,"0.00%",1
+"Optum SES",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 2.5 mg",21863,4,"0.02%",1
+"Optum SES",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 10 mg",21863,1007,"4.61%",1
+"Optum SES",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 15 mg",21863,5431,"24.84%",1
+"Optum SES",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 20 mg",21863,15297,"69.97%",1
+"Optum SES",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban starting dose 30 mg",21863,0,"0.00%",1
+"Optum SES",11547,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation (starting dose test)","Rivaroxaban multiple starting doses",21863,124,"0.57%",1
+"Optum SES",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 2.5 mg",14489,4,"0.03%",1
+"Optum SES",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 10 mg",14489,423,"2.92%",1
+"Optum SES",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 15 mg",14489,6008,"41.47%",1
+"Optum SES",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 20 mg",14489,5515,"38.06%",1
+"Optum SES",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban starting dose 30 mg",14489,0,"0.00%",1
+"Optum SES",11548,"[680] Female rivaroxaban new users with prior venous thromboembolism (starting dose test)","Rivaroxaban multiple starting doses",14489,2539,"17.52%",1
+"Optum SES",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 2.5 mg",14675,0,"0.00%",1
+"Optum SES",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 10 mg",14675,14527,"98.99%",1
+"Optum SES",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 15 mg",14675,49,"0.33%",1
+"Optum SES",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 20 mg",14675,88,"0.60%",1
+"Optum SES",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose 30 mg",14675,0,"0.00%",1
+"Optum SES",11551,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery (starting dose test)","Rivaroxaban starting dose unknown",14675,11,"0.07%",1
+"Optum SES",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 2.5 mg",39618,10805,"27.27%",1
+"Optum SES",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban starting dose 5 mg",39618,28785,"72.66%",1
+"Optum SES",11561,"[680] Female apixaban new users with prior non-valvular atrial fibrillation (starting dose test)","Apixaban mulitple starting dose",39618,28,"0.07%",1
+"Optum SES",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 2.5 mg",10020,919,"9.17%",1
+"Optum SES",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban starting dose 5 mg",10020,9052,"90.34%",1
+"Optum SES",11562,"[680] Female apixaban new users with prior venous thromboembolism (starting dose test)","Apixaban mulitple starting dose",10020,49,"0.49%",1
+"Optum SES",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 2.5 mg",2473,2385,"96.44%",1
+"Optum SES",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban starting dose 5 mg",2473,87,"3.52%",1
+"Optum SES",11564,"[680] Female apixaban new users with prior knee or hip replacement surgery (starting dose test)","Apixaban mulitple starting dose",2473,1,"0.04%",1
+"Optum SES",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 75 mg",7518,1165,"15.50%",1
+"Optum SES",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 110 mg",7518,26,"0.35%",1
+"Optum SES",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran starting dose 150 mg",7518,6321,"84.08%",1
+"Optum SES",11565,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation (starting dose test)","Dabigatran multiple starting doses",7518,6,"0.08%",1
+"Optum SES",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 75 mg",434,35,"8.06%",1
+"Optum SES",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 110 mg",434,3,"0.69%",1
+"Optum SES",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran starting dose 150 mg",434,396,"91.24%",1
+"Optum SES",11566,"[680] Female dabigatran new users with prior venous thromboembolism (starting dose test)","Dabigatran multiple starting doses",434,0,"0.00%",1
+"Optum SES",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 75 mg",11,3,"27.27%",1
+"Optum SES",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 110 mg",11,0,"0.00%",1
+"Optum SES",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran starting dose 150 mg",11,8,"72.73%",1
+"Optum SES",11568,"[680] Female dabigatran new users with prior knee or hip replacement surgery (starting dose test)","Dabigatran multiple starting doses",11,0,"0.00%",1

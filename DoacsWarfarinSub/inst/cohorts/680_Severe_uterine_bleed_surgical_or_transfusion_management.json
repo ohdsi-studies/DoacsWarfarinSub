@@ -1,0 +1,1496 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 60
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37119535,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "10003439",
+            "VOCABULARY_ID": "MedDRA",
+            "CONCEPT_NAME": "Artificial menopause",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "PT",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 194696,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "266599000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dysmenorrhea",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4302555,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "386692008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Menorrhagia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37119544,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "10027327",
+            "VOCABULARY_ID": "MedDRA",
+            "CONCEPT_NAME": "Menstrual disorder",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "PT",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 37119545,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "10027514",
+            "VOCABULARY_ID": "MedDRA",
+            "CONCEPT_NAME": "Metrorrhagia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "PT",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 195867,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "22741003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Noninflammatory disorder of the vagina",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440155,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31351009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Postartificial menopausal syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 195321,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "76742009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Postmenopausal bleeding",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[631] Vaginal bleed",
+      "id": 0
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 197236,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "95315005",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Uterine leiomyoma",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": true
+      }]},
+      "name": "[631] Uterine leiomyoma",
+      "id": 3
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2004444,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68.19",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other diagnostic procedures on uterus and supporting structures",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2004449,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68.29",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other excision or destruction of lesion of uterus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2004503,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69.19",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other excision or destruction of uterus and supporting structures",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[631] Myomectomy procedures",
+      "id": 4
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4300370,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "387626007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Amputation of cervix",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101815,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "01969",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for cesarean hysterectomy following neuraxial labor analgesia/anesthesia (List separately in addition to code for primary procedure performed)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101809,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "01963",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for cesarean hysterectomy without any labor analgesia/anesthesia care",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101015,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "00855",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; cesarean hysterectomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101000,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "00846",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for intraperitoneal procedures in lower abdomen including laparoscopy; radical hysterectomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101808,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "01962",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for urgent hysterectomy following delivery",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101597,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "00952",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); hysteroscopy and/or hysterosalpingography",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2101592,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "00944",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Anesthesia for vaginal procedures (including biopsy of labia, vagina, cervix or endometrium); vaginal hysterectomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2004524,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69.5",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Aspiration curettage of uterus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "3-dig nonbill code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4181912,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "54535009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cone biopsy of cervix",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110171,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58120",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Dilation and curettage, diagnostic and/or therapeutic (nonobstetrical)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42733496,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "57820",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Dilation and curettage of cervical stump",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110163,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "57558",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Dilation and curettage of cervical stump",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4015660,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11401008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Dilation and curettage of uterus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4141940,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "265060005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Endometrial ablation",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110203,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58353",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Endometrial ablation, thermal, without hysteroscopic guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42739908,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0009T",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Endometrial cryoablation with ultrasonic guidance",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110204,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58356",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Endometrial cryoablation with ultrasonic guidance, including endometrial curettage, when performed",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1314496,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G9823",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Endometrial sampling or hysteroscopy with biopsy and results documented",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1314497,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "G9824",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Endometrial sampling or hysteroscopy with biopsy and results not documented",
+            "DOMAIN_ID": "Observation",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4127886,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "236886002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Hysterectomy",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110228,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58565",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with bilateral fallopian tube cannulation to induce occlusion by placement of permanent implants",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722224,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56353",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with division or resection of intrauterine septum (any method).",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722227,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56356",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with endometrial ablation (any method).",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110223,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58559",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with lysis of intrauterine adhesions (any method)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722223,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56352",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with lysis of intrauterine adhesions (any method).",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110226,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "58562",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with removal of impacted foreign body",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722226,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56355",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with removal of impacted foreign body.",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722225,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56354",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with removal of leiomyomata.",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722222,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56351",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysteroscopy, surgical; with sampling (biopsy) of endometrium and/or polypectomy, with or without D & C.",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2110292,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "59100",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Hysterotomy, abdominal (eg, for hydatidiform mole, abortion)",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722207,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56309",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Laparoscopy, surgical; with removal of leiomyomata, subserosal (single or multiple).",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2868153,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "00944",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Medical and Surgical @ Central Nervous System and Cranial Nerves @ Drainage @ Subdural Space, Intracranial @ Percutaneous Endoscopic",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2802049,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "01963",
+            "VOCABULARY_ID": "ICD10PCS",
+            "CONCEPT_NAME": "Medical and Surgical @ Peripheral Nervous System @ Drainage @ Radial Nerve @ Percutaneous",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "ICD10PCS Hierarchy",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2004527,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69.59",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other aspiration curettage of uterus",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2004491,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "69.09",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Other dilation and curettage",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 195599,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42116007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Prolapse of vaginal vault after hysterectomy",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2722229,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "56399",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Unlisted procedure, laparoscopy, hysteroscopy.",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2721144,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "S2250",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "UTERINE ARTERY EMBOLIZATION FOR UTERINE FIBROIDS",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40756770,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68.24",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Uterine artery embolization [UAE] with coils",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40756808,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "68.25",
+            "VOCABULARY_ID": "ICD9Proc",
+            "CONCEPT_NAME": "Uterine artery embolization [UAE] without coils",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "4-dig billing code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2108349,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "37210",
+            "VOCABULARY_ID": "CPT4",
+            "CONCEPT_NAME": "Uterine fibroid embolization (UFE, embolization of the uterine arteries to treat uterine fibroids, leiomyomata), percutaneous approach inclusive of vascular access, vessel selection, embolization, and all radiological supervision and interpretation, intra",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "CPT4",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[631] Surgical management of vaginal bleed, conditions and procedures - OPTIMIZED",
+      "id": 5
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 38003219,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "0381",
+            "VOCABULARY_ID": "Revenue Code",
+            "CONCEPT_NAME": "Blood - Packed Red Cells",
+            "DOMAIN_ID": "Revenue Code",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Revenue Code",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4125928,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "288170000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Packed blood cell transfusion",
+            "DOMAIN_ID": "Procedure",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Procedure",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720538,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9039",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, deglycerolized, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720527,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9021",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720555,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9057",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, frozen/deglycerolized/washed, leukocytes reduced, irradiated, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720537,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9038",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, irradiated, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720556,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9058",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, leukocytes reduced, cmv-negative, irradiated, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720522,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9016",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, leukocytes reduced, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720539,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9040",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, leukocytes reduced, irradiated, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720528,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9022",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Red blood cells, washed, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720549,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9051",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Whole blood or red blood cells, leukocytes reduced, cmv-negative, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 2720552,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "P9054",
+            "VOCABULARY_ID": "HCPCS",
+            "CONCEPT_NAME": "Whole blood or red blood cells, leukocytes reduced, frozen, deglycerol, washed, each unit",
+            "DOMAIN_ID": "Device",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "HCPCS",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[631] Tranfusion management of vaginal bleed, procedures",
+      "id": 6
+    }
+  ],
+  "EndStrategy": {"DateOffset": {
+    "DateField": "StartDate",
+    "Offset": 60
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [{
+    "expression": {
+      "CriteriaList": [
+        {
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ProcedureOccurrence": {
+            "ProcedureType": null,
+            "CorrelatedCriteria": null,
+            "CodesetId": 6,
+            "ProcedureSourceConcept": null,
+            "Quantity": null,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "ProcedureTypeExclude": false,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "Modifier": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        },
+        {
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DeviceExposure": {
+            "OccurrenceEndDate": null,
+            "DeviceTypeExclude": false,
+            "CorrelatedCriteria": null,
+            "CodesetId": 6,
+            "Quantity": null,
+            "UniqueDeviceId": null,
+            "ProviderSpecialty": null,
+            "DeviceSourceConcept": null,
+            "Gender": null,
+            "DeviceType": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }
+      ],
+      "Type": "ANY",
+      "DemographicCriteriaList": [],
+      "Groups": [{
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 60,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 5,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 60,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ProcedureOccurrence": {
+              "ProcedureType": null,
+              "CorrelatedCriteria": null,
+              "CodesetId": 5,
+              "ProcedureSourceConcept": null,
+              "Quantity": null,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "ProcedureTypeExclude": false,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Modifier": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": 0,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 60,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"Observation": {
+              "ValueAsConcept": null,
+              "ObservationType": null,
+              "CorrelatedCriteria": null,
+              "ObservationTypeExclude": false,
+              "ValueAsString": null,
+              "CodesetId": 5,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "Unit": null,
+              "ObservationSourceConcept": null,
+              "VisitType": null,
+              "ValueAsNumber": null,
+              "Qualifier": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 2,
+              "IsDistinct": false,
+              "Count": 1
+            }
+          }
+        ],
+        "Type": "ANY",
+        "DemographicCriteriaList": [],
+        "Groups": [{
+          "CriteriaList": [
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 0,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 60,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "EndWindow": null,
+              "Criteria": {"ConditionOccurrence": {
+                "OccurrenceEndDate": null,
+                "CorrelatedCriteria": null,
+                "ConditionTypeExclude": false,
+                "CodesetId": 3,
+                "ProviderSpecialty": null,
+                "Gender": null,
+                "VisitType": null,
+                "First": null,
+                "OccurrenceStartDate": null,
+                "ConditionType": null,
+                "ConditionSourceConcept": null,
+                "StopReason": null,
+                "Age": null
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            },
+            {
+              "RestrictVisit": false,
+              "StartWindow": {
+                "UseEventEnd": false,
+                "Start": {
+                  "Days": 0,
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 60,
+                  "Coeff": 1
+                },
+                "UseIndexEnd": false
+              },
+              "IgnoreObservationPeriod": false,
+              "EndWindow": null,
+              "Criteria": {"ProcedureOccurrence": {
+                "ProcedureType": null,
+                "CorrelatedCriteria": null,
+                "CodesetId": 4,
+                "ProcedureSourceConcept": null,
+                "Quantity": null,
+                "ProviderSpecialty": null,
+                "Gender": null,
+                "ProcedureTypeExclude": false,
+                "VisitType": null,
+                "First": null,
+                "OccurrenceStartDate": null,
+                "Modifier": null,
+                "Age": null
+              }},
+              "Occurrence": {
+                "Type": 2,
+                "IsDistinct": false,
+                "Count": 1
+              }
+            }
+          ],
+          "Type": "ALL",
+          "DemographicCriteriaList": [],
+          "Groups": [],
+          "Count": null
+        }],
+        "Count": null
+      }],
+      "Count": null
+    },
+    "name": "Surgical management within 60 days or transfusion management on the same day",
+    "description": null
+  }],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"ConditionOccurrence": {
+      "OccurrenceEndDate": null,
+      "CorrelatedCriteria": null,
+      "ConditionTypeExclude": false,
+      "CodesetId": 0,
+      "ProviderSpecialty": null,
+      "Gender": [{
+        "INVALID_REASON_CAPTION": "Unknown",
+        "CONCEPT_ID": 8532,
+        "STANDARD_CONCEPT": null,
+        "CONCEPT_CODE": "F",
+        "VOCABULARY_ID": "Gender",
+        "CONCEPT_NAME": "FEMALE",
+        "DOMAIN_ID": "Gender",
+        "STANDARD_CONCEPT_CAPTION": "Unknown",
+        "CONCEPT_CLASS_ID": null,
+        "INVALID_REASON": null
+      }],
+      "VisitType": null,
+      "First": null,
+      "OccurrenceStartDate": {
+        "Op": "bt",
+        "Extent": "2018-12-31",
+        "Value": "2010-10-19"
+      },
+      "ConditionType": null,
+      "ConditionSourceConcept": null,
+      "StopReason": null,
+      "Age": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "All"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 0
+    }
+  }
+}

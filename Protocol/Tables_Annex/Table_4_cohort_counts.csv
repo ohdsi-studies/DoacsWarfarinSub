@@ -1,0 +1,13 @@
+"CohortId","CohortName","IBM CCAE","IBM MDCR","IBM MDCD","Optum DOD"
+11400,"Female rivaroxaban new users with prior non-valvular atrial fibrillation",7525,14817,2622,21863
+11401,"Female apixaban new users with prior non-valvular atrial fibrillation",8247,18499,3363,39618
+11402,"Female dabigatran new users with prior non-valvular atrial fibrillation",4193,8571,743,7518
+11403,"Female warfarin new users with prior non-valvular atrial fibrillation",8800,28240,5530,41219
+11404,"Female rivaroxaban new users with prior venous thromboembolism",12270,5834,4808,14489
+11405,"Female apixaban new users with prior venous thromboembolism",5203,2931,2414,10020
+11406,"Female dabigatran new users with prior venous thromboembolism",326,206,89,434
+11407,"Female warfarin new users with prior venous thromboembolism",25955,17892,9284,30396
+11412,"Female rivaroxaban new users with prior knee or hip replacement surgery",18659,8216,2492,14675
+11413,"Female apixaban new users with prior knee or hip replacement surgery",2077,876,390,2473
+11414,"Female dabigatran new users with prior knee or hip replacement surgery",12,9,2,11
+11415,"Female warfarin new users with prior knee or hip replacement surgery",22143,12445,1948,18874

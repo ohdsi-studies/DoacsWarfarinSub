@@ -1,0 +1,34 @@
+atlasId,atlasName,cohortId,name
+11400,[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation,11400,680_Female_rivaroxaban_new_users_with_prior_nonvalvular_atrial_fibrillation
+11403,[680] Female warfarin new users with prior non-valvular atrial fibrillation,11403,680_Female_warfarin_new_users_with_prior_nonvalvular_atrial_fibrillation
+14347,[680] Severe uterine bleed (surgical or transfusion management),14347,680_Severe_uterine_bleed_surgical_or_transfusion_management
+11401,[680] Female apixaban new users with prior non-valvular atrial fibrillation,11401,680_Female_apixaban_new_users_with_prior_nonvalvular_atrial_fibrillation
+11402,[680] Female dabigatran new users with prior non-valvular atrial fibrillation,11402,680_Female_dabigatran_new_users_with_prior_nonvalvular_atrial_fibrillation
+11404,[680] Female rivaroxaban new users with prior venous thromboembolism,11404,680_Female_rivaroxaban_new_users_with_prior_venous_thromboembolism
+11407,[680] Female warfarin new users with prior venous thromboembolism,11407,680_Female_warfarin_new_users_with_prior_venous_thromboembolism
+11405,[680] Female apixaban new users with prior venous thromboembolism,11405,680_Female_apixaban_new_users_with_prior_venous_thromboembolism
+11406,[680] Female dabigatran new users with prior venous thromboembolism,11406,680_Female_dabigatran_new_users_with_prior_venous_thromboembolism
+11408,[680] Female rivaroxaban new users with prior coronary artery disease or peripheral artery disease,11408,680_Female_rivaroxaban_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease
+11411,[680] Female warfarin new users with prior coronary artery disease or peripheral artery disease,11411,680_Female_warfarin_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease
+11409,[680] Female apixaban new users with prior coronary artery disease or peripheral artery disease,11409,680_Female_apixaban_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease
+11410,[680] Female dabigatran new users with prior coronary artery disease or peripheral artery disease,11410,680_Female_dabigatran_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease
+11412,[680] Female rivaroxaban new users with prior knee or hip replacement surgery,11412,680_Female_rivaroxaban_new_users_with_prior_knee_or_hip_replacement_surgery
+11415,[680] Female warfarin new users with prior knee or hip replacement surgery,11415,680_Female_warfarin_new_users_with_prior_knee_or_hip_replacement_surgery
+11413,[680] Female apixaban new users with prior knee or hip replacement surgery,11413,680_Female_apixaban_new_users_with_prior_knee_or_hip_replacement_surgery
+11414,[680] Female dabigatran new users with prior knee or hip replacement surgery,11414,680_Female_dabigatran_new_users_with_prior_knee_or_hip_replacement_surgery
+13033,"[680] Female rivaroxaban new users with prior non-valvular atrial fibrillation, sens TAR1",13033,680_Female_rivaroxaban_new_users_with_prior_nonvalvular_atrial_fibrillation_sens_TAR1
+13234,"[680] Female warfarin new users with prior non-valvular atrial fibrillation, sen TAR1",13234,680_Female_warfarin_new_users_with_prior_nonvalvular_atrial_fibrillation_sen_TAR1
+13199,"[680] Female apixaban new users with prior non-valvular atrial fibrillation, sens TAR1",13199,680_Female_apixaban_new_users_with_prior_nonvalvular_atrial_fibrillation_sens_TAR1
+13200,"[680] Female dabigatran new users with prior non-valvular atrial fibrillation, sens TAR1",13200,680_Female_dabigatran_new_users_with_prior_nonvalvular_atrial_fibrillation_sens_TAR1
+13203,"[680] Female rivaroxaban new users with prior venous thromboembolism, sens TAR1",13203,680_Female_rivaroxaban_new_users_with_prior_venous_thromboembolism_sens_TAR1
+13235,"[680] Female warfarin new users with prior venous thromboembolism, sens TAR1",13235,680_Female_warfarin_new_users_with_prior_venous_thromboembolism_sens_TAR1
+13204,"[680] Female apixaban new users with prior venous thromboembolism, sens TAR1",13204,680_Female_apixaban_new_users_with_prior_venous_thromboembolism_sens_TAR1
+13205,"[680] Female dabigatran new users with prior venous thromboembolism, sens TAR1",13205,680_Female_dabigatran_new_users_with_prior_venous_thromboembolism_sens_TAR1
+13207,"[680] Female rivaroxaban new users with prior coronary artery disease or peripheral artery disease, sens TAR1",13207,680_Female_rivaroxaban_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease_sens_TAR1
+13236,"[680] Female warfarin new users with prior coronary artery disease or peripheral artery disease, sens TAR1",13236,680_Female_warfarin_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease_sens_TAR1
+13208,"[680] Female apixaban new users with prior coronary artery disease or peripheral artery disease, sens TAR1",13208,680_Female_apixaban_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease_sens_TAR1
+13209,"[680] Female dabigatran new users with prior coronary artery disease or peripheral artery disease, sens TAR1",13209,680_Female_dabigatran_new_users_with_prior_coronary_artery_disease_or_peripheral_artery_disease_sens_TAR1
+13211,"[680] Female rivaroxaban new users with prior knee or hip replacement surgery, sens TAR1",13211,680_Female_rivaroxaban_new_users_with_prior_knee_or_hip_replacement_surgery_sens_TAR1
+13237,"[680] Female warfarin new users with prior knee or hip replacement surgery, sens TAR1",13237,680_Female_warfarin_new_users_with_prior_knee_or_hip_replacement_surgery_sens_TAR1
+13212,"[680] Female apixaban new users with prior knee or hip replacement surgery, sens TAR1",13212,680_Female_apixaban_new_users_with_prior_knee_or_hip_replacement_surgery_sens_TAR1
+13213,"[680] Female dabigatran new users with prior knee or hip replacement surgery, sens TAR1",13213,680_Female_dabigatran_new_users_with_prior_knee_or_hip_replacement_surgery_sens_TAR1

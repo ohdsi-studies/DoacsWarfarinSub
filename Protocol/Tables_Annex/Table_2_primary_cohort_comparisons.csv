@@ -1,0 +1,25 @@
+t_id,t_cohort_name,c_id,c_cohort_name
+11000,Rivaroxaban new users with prior AFib,12000,Apixaban new users with prior AFib
+11000,Rivaroxaban new users with prior AFib,13000,Dabigatran new users with prior AFib
+12000,Apixaban new users with prior AFib,13000,Dabigatran new users with prior AFib
+11000,Rivaroxaban new users with prior AFib,14000,Warfarin new users with prior AFib
+12000,Apixaban new users with prior AFib,14000,Warfarin new users with prior AFib
+13000,Dabigatran new users with prior AFib,14000,Warfarin new users with prior AFib
+21000,Rivaroxaban new users with prior VTE,22000,Apixaban new users with prior VTE
+21000,Rivaroxaban new users with prior VTE,23000,Dabigatran new users with prior VTE
+22000,Apixaban new users with prior VTE,23000,Dabigatran new users with prior VTE
+21000,Rivaroxaban new users with prior VTE,24000,Warfarin new users with prior VTE
+22000,Apixaban new users with prior VTE,24000,Warfarin new users with prior VTE
+23000,Dabigatran new users with prior VTE,24000,Warfarin new users with prior VTE
+31000,Rivaroxaban new users with prior CAD or PAD,32000,Apixaban new users with prior CAD or PAD
+31000,Rivaroxaban new users with prior CAD or PAD,33000,Dabigatran new users with prior CAD or PAD
+32000,Apixaban new users with prior CAD or PAD,33000,Dabigatran new users with prior CAD or PAD
+31000,Rivaroxaban new users with prior CAD or PAD,34000,Warfarin new users with prior CAD or PAD
+32000,Apixaban new users with prior CAD or PAD,34000,Warfarin new users with prior CAD or PAD
+33000,Dabigatran new users with prior CAD or PAD,34000,Warfarin new users with prior CAD or PAD
+41000,Rivaroxaban new users with prior ortho. surgery,42000,Apixaban new users with prior ortho. surgery
+41000,Rivaroxaban new users with prior ortho. surgery,43000,Dabigatran new users with prior ortho. surgery
+42000,Apixaban new users with prior ortho. surgery,43000,Dabigatran new users with prior ortho. surgery
+41000,Rivaroxaban new users with prior ortho. surgery,44000,Warfarin new users with prior ortho. surgery
+42000,Apixaban new users with prior ortho. surgery,44000,Warfarin new users with prior ortho. surgery
+43000,Dabigatran new users with prior ortho. surgery,44000,Warfarin new users with prior ortho. surgery
