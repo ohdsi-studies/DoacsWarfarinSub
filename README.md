@@ -7,7 +7,7 @@ Comparative Risk Assessment of Severe Uterine Bleeding Following Exposure to Dir
 - Study type: **Clinical Application**
 - Tags: **DOACs**
 - Study lead: **James Weaver**
-- Study lead forums tag: **[jweave17](https://forums.ohdsi.org/u/jweave17)**
+- Study lead forums tag: **[jweave17](https://forums.ohdsi.org/u/jweave17), [Azza_Shoaibi](https://forums.ohdsi.org/u/azza_shoaibi)**
 - Study start date: **April 13, 2020**
 - Study end date: **-**
 - Protocol: **[PDF](https://github.com/ohdsi-studies/DoacsWarfarinSub/tree/master/Protocol)**
