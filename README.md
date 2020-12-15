@@ -14,4 +14,4 @@ Comparative Risk Assessment of Severe Uterine Bleeding Following Exposure to Dir
 - Publications: **-**
 - Results explorer: **[Shiny app](https://data.ohdsi.org/)**
 
-This study evaluated the comparative risk of severe uterine bleeding for rivaroxaban, apixaban, dabigatran, and warfarin therapies among propensity score-matched patients with non-valvular atrial fibrillation and venous thromboembolism in routine clinical practice.
+This study evaluated the comparative risk of severe uterine bleeding for rivaroxaban, apixaban, dabigatran, and warfarin therapies among propensity score-matched patients with non-valvular atrial fibrillation and venous thromboembolism in routine clinical practice. The study was registered at https://clinicaltrials.gov/ct2/show/NCT04394234.
